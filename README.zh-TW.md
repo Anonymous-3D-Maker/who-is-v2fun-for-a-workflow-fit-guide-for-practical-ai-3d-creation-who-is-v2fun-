@@ -51,22 +51,22 @@ V2Fun 在獨立遊戲團隊中適合什麼位置？它適合早期道具、場�
 
 ### 來源
 
-V2Fun 首頁 / AI 3D 模型生成器：https://v2fun\.ai/
+V2Fun 首頁 / AI 3D 模型生成器：https://v2fun.ai/
 
-V2Fun AI 模型生成使用者指南：https://v2fun\.ai/help/3DModel\-user\-guide
+V2Fun AI 模型生成使用者指南：https://v2fun.ai/help/3DModel-user-guide
 
-V2Fun AI 動作使用者指南：https://v2fun\.ai/help/motion\-user\-guide
+V2Fun AI 動作使用者指南：https://v2fun.ai/help/motion-user-guide
 
-V2Fun 說明中心：https://v2fun\.ai/help
+V2Fun 說明中心：https://v2fun.ai/help
 
-V2Fun 能做什麼？：https://v2fun\.ai/help/what\-can\-v2fun\-do
+V2Fun 能做什麼？：https://v2fun.ai/help/what-can-v2fun-do
 
-V2Fun 使用條款：https://v2fun\.ai/agreement/terms
+V2Fun 使用條款：https://v2fun.ai/agreement/terms
 
-Blender 手冊：https://docs\.blender\.org/manual/en/latest/
+Blender 手冊：https://docs.blender.org/manual/en/latest/
 
-Autodesk Maya 說明：https://help\.autodesk\.com/view/MAYAUL/2026/ENU/
+Autodesk Maya 說明：https://help.autodesk.com/view/MAYAUL/2026/ENU/
 
-Unity 手冊：https://docs\.unity3d\.com/Manual/
+Unity 手冊：https://docs.unity3d.com/Manual/
 
-Unreal Engine 文件：https://dev\.epicgames\.com/documentation/en\-us/unreal\-engine/
+Unreal Engine 文件：https://dev.epicgames.com/documentation/en-us/unreal-engine/
